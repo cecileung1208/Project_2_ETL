@@ -6,34 +6,34 @@
 CREATE TABLE "health_expenditures" (
     "country_id" int   NOT NULL,
     "year" int   NOT NULL,
-    "value" float   NOT NULL
+    "value" float   NULL
 );
 
 CREATE TABLE "income" (
     "country_id" int   NOT NULL,
     "year" int   NOT NULL,
-    "value" float   NOT NULL
+    "value" float   NULL
 );
 
 CREATE TABLE "obesity" (
     "country_id" int   NOT NULL,
     "year" int   NOT NULL,
-    "value" float   NOT NULL
+    "value" float   NULL
 );
 
 CREATE TABLE "sugar_consumption" (
     "country_id" int   NOT NULL,
     "year" int   NOT NULL,
-    "value" float   NOT NULL
+    "value" float   NULL
 );
 
 CREATE TABLE "country" (
     "country_id" int   NOT NULL,
-    "common_name" str   NOT NULL,
-    "official_name" str   NOT NULL,
-    "country_code" str   NOT NULL,
-    "continent" str   NOT NULL,
-    "sub_region" str   NOT NULL,
+    "common_name" VARCHAR   NOT NULL,
+    "official_name" VARCHAR   NOT NULL,
+    "country_code" VARCHAR   NOT NULL,
+    "continent" VARCHAR   NOT NULL,
+    "sub_region" VARCHAR   NOT NULL,
     CONSTRAINT "pk_country" PRIMARY KEY (
         "country_id"
      )
