@@ -5,7 +5,7 @@
     * contains the final output of the project
     * finalized datasets, notebooks, image outputs, ERD diagrams and Table Schema SQL, and the Final Write-up
 2. Extract
-    * contains CSV files from Project 1 and the original datasets we have found in various sources
+    * contains CSV files from Project 1 and new datasets we have found in various sources
 3. Transform
     * csv files that are cleaned and Notebooks to transform the DataFrames
 4. Load
