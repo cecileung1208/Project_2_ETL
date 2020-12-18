@@ -9,7 +9,8 @@
 3. Transform
     * csv files that are cleaned and Notebooks to transform the DataFrames
 4. Load
-    * in additon to the files from the transform branch, a final notebook have been added to run the transformed notebooks and to load the tables into ElephantSQL.
+    * files from the transform branch
+    * final notebook have been added to run the transformed notebooks and to load the tables into ElephantSQL
 
 ## Folders
 1. Data
