@@ -1,11 +1,22 @@
 # Project_2_ETL
 
+## Branches
+1. Main
+    * contains the final output of the project
+    * finalized datasets, notebooks, image outputs, ERD diagrams and Table Schema SQL, and the Final Write-up
+2. Extract
+    * contains CSV files from Project 1 and the original datasets we have found in various sources
+3. Transform
+    * csv files that are cleaned and Notebooks to transform the DataFrames
+4. Load
+    * in additon to the files from the transform branch, a final notebook have been added to run the transformed notebooks and to load the tables into ElephantSQL.
+
 ## Folders
 1. Data
-    * contains raw data that was extracted from various data sources
+    * Contains raw data that was extracted from various data sources
 2. ERD
-    *  contains SQL scriptis and ERD that was used to create data tables
-3. Imagine
+    * Contains SQL scriptis and ERD that was used to create data tables
+3. Image
     * Contains images used and screenshots of loaded tables
 
 ## Files
