@@ -14,11 +14,11 @@
 
 ## Folders
 1. Data
-    * Contains raw data that was extracted from various data sources
+    * contains raw data that was extracted from various data sources
 2. ERD
-    * Contains SQL scriptis and ERD that was used to create data tables
+    * contains SQL scriptis and ERD that was used to create data tables
 3. Image
-    * Contains images used and screenshots of loaded tables
+    * contains images used and screenshots of loaded tables
 
 ## Files
 1. Final Notebook.ipynb - final notes used to run all other transform notebooks and load data tables
