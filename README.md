@@ -6,7 +6,7 @@
 2. ERD
     *  contains SQL scriptis and ERD that was used to create data tables
 3. Imagine
-    * Contains imagines used and screenshots of loaded tables
+    * Contains images used and screenshots of loaded tables
 
 ## Files
 1. Final Notebook.ipynb - final notes used to run all other transform notebooks and load data tables
