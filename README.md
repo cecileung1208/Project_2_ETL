@@ -23,7 +23,7 @@
 ## Files
 1. Final Notebook.ipynb - final notes used to run all other transform notebooks and load data tables
 2. Sugar_data.ipynd - trasnforms gram of sugar per day, used in Final Notebook 
-3. health_mealtj.ipynd - transforms health expenditure, used in Final Notebook 
+3. health_melt.ipynd - transforms health expenditure, used in Final Notebook 
 4. income_melt.ipynb - transforms income date, used in Final Notebook 
 5. obesity_melt.ipynb - transforms obesity data set, used in Final Notebook
 6. country_table.ipynb - transofrms country information, used in Final Notebook
